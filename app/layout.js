@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Sarvam TTS Demo",
-  description: "Text-to-speech demo using Sarvam AI",
+  title: "Vykhya AI - Indian Language Translator & Text-to-Speech",
+  description: "Translate English text and synthesize highly natural speech in 11 major Indian languages using Sarvam AI's Bulbul:v3 and Mayura:v1 models.",
 };
 
 export default function RootLayout({ children }) {
